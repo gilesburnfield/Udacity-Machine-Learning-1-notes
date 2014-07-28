@@ -1,0 +1,19 @@
+git remote add origin https://github.com/gilesburnfield/Udacity-Machine-Learning-1-notes.git
+  532  git push -u origin master
+  533  git pull
+  534  git pull origin master
+  535  git log
+  536  git push -u origin master
+  537  git status
+  538  rm .DS_Store
+  539  git status
+  540  git commit
+  541  git commit -am "delated .DSstore"
+  542  vim .gitignore
+  543  git status
+  544  git add .gitignore 
+  545  git commit -m "add git ignore)
+"
+  546  git push
+  547  ls
+  548  history 100
